@@ -195,7 +195,8 @@ section {
 
 .proPic {
     width: 300px;
-    height: 350px;
+    border: 1.5px solid #009e66;
+    padding: 5px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
 }
