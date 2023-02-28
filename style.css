@@ -197,6 +197,7 @@ section {
     width: 300px;
     border: 1.5px solid #009e66;
     padding: 5px;
+    box-shadow: 0 0 20px rgb(0 62 40 / 40%);
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
 }
